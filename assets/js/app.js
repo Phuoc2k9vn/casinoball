@@ -1,4 +1,4 @@
-let bankValue = 1000;
+let bankValue = 100000;
 let currentBet = 0;
 let wager = 5;
 let lastWager = 0;
